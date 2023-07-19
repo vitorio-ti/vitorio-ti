@@ -24,4 +24,4 @@
   
 </div>
 
-![Snake animation](https://github.com/VitinDeveloper)
+![Snake animation](https://github.com/VitinDeveloper/VitinDeveloper/blob/output/github-contribution-grid-snake.svg)
