@@ -24,5 +24,5 @@
 </div>
 
 <div align="center">
-  <img alt="cobrinha" src="https://raw.githubusercontent.com/VitinDeveloper/VitinDeveloper/output/github-contribution-grid-snake.svg"/>
+  <img alt="cobrinha" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg"/>
 </div>
