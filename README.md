@@ -3,8 +3,8 @@
 <div display: inline_block>
   
   <a href = "https://github.com/VitinDeveloper">
-   <img height="177em" src="https://github-readme-stats.vercel.app/api?username=VitinDeveloper&show_icons=true&theme=shadow_red">
-  <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitinDeveloper&layout=compact&theme=shadow_red">
+   <img height="177em" src="https://github-readme-stats.vercel.app/api?username=VitinDeveloper&show_icons=true&theme=dark">
+  <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitinDeveloper&layout=compact&theme=dark">
     
  </div>
  
