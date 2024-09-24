@@ -18,9 +18,9 @@
 
 <div display: inline_block>
   <p align="center"> 
-  <a href = "https://github.com/VitinDeveloper">
-   <img height="177em" src="https://github-readme-stats.vercel.app/api?username=VitinDeveloper&show_icons=true&theme=dark">
-  <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitinDeveloper&layout=compact&theme=dark">
+  <a href = "https://github.com/vitorio-ti">
+   <img height="177em" src="https://github-readme-stats.vercel.app/api?username=vitorio-ti&show_icons=true&theme=dark">
+  <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorio-ti&layout=compact&theme=dark">
   </p> 
  </div>
   
