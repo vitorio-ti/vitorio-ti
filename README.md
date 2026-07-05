@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,Bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Eu+me+chamo+Vitório+Augusto)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Eu+me+chamo+Vitório)](https://git.io/typing-svg)
 
 <div style="display: inline_block">
   <p align="center"> 
@@ -16,12 +16,6 @@
 
 <br>
 
-<div display: inline_block>
-  <p align="center"> 
-  <a href = "https://github.com/vitorio-ti">
-   <img height="177em" src="https://github-readme-stats.vercel.app/api?username=vitorio-ti&show_icons=true&theme=dark">
-  <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorio-ti&layout=compact&theme=dark">
-  </p> 
- </div>
+
   
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Animation — Try refreshing" />
